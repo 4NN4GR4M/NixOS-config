@@ -1,1 +1,2 @@
 # NixOS-config
+Note: Makefile, flake.nix and home.nix need to belong in their own directory and be added to a git repo. Then u run make. configuration.nix is supposed to replace the contents of your system's /etc/nixos/configuration.nix. Then you run sudo nixos-rebuild switch. It may need a restart after that. The images for the wallpaper and for fastfetch need to be downloaded and moved to their correct paths. Look inside home.nix to find where that path is.
