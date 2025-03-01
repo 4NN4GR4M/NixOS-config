@@ -284,16 +284,16 @@ in {
 			package = pkgs.catppuccin;
 			settings = {
 				gui.theme = {
-					activeBorderColor = [ "#89b4fa" "bold" ]; 
-					inactiveBorderColor = [ "#a6adc8" ]; 
-					optionsTextColor = [ "#89b4fa" ]; 
-					selectedLineBgColor = [ "#313244" ]; 
+					activeBorderColor = [ "#ff06b5" "bold" ]; 
+					inactiveBorderColor = [ "#7573ff" ]; 
+					optionsTextColor = [ "#be82e0" ]; 
+					selectedLineBgColor = [ "#7573ff" ]; 
 					selectedRangeBgColor = [ "#313244" ]; 
 					cherryPickedCommitBgColor = [ "#45475a" ];
 					cherryPickedCommitFgColor = [ "#89b4fa" ];
 					unstagedChangesColor = [ "#f38ba8" ];
 					defaultFgColor = [ "#cdd6f4" ];
-					searchingActiveBorderColor = [ "#f9e2af" ];
+					searchingActiveBorderColor = [ "#b62eff" ];
 				};
 				showFileTree = true;
 				authorColors = {
