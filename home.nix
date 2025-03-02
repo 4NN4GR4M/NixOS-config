@@ -478,18 +478,24 @@ in {
 						frappe = {},
 						macchiato = {},
 						mocha = {
-							base = "#14141f",
-							text = "#be82e0",
-							blue = "#7573ff",
-							teal = "#442ffa",
-							sky = "#ffbde8",
-							flamingo = "#ff99fd",
-							lavender = "#c596ff",
-							green = "#fa58d9",
-							maroon = "#fa57d9",
-							peach = "#de06ff",
-							yellow = "#ff06B5",
-							red = "#ff0059",
+							base = "#14141f";
+							magenta = "#f5c2e7";
+							cyan = "#b62eff";
+							text = "#be82e0";
+							blue = "#5335db";
+							teal = "#442ffa";
+							sky = "#ffbde8";
+							flamingo = "#ff99fd";
+							lavender = "#b4befe";
+							green = "#fa58d9";
+							maroon = "#fa57d9";
+							peach = "#de06ff";
+							yellow = "#ff06B5";
+							red = "#ff0059";
+							sapphire = "#74c7ec";
+							mauve = "#cba6f7";
+							pink = "#ff06b5";
+							rosewater = "#f5c2e7";
 						},
 						flavour = "mocha",
 					},
